@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/countries-api-app/static/css/main.d875abc5.css",
+    "main.js": "/countries-api-app/static/js/main.7d019118.js",
+    "static/js/787.3bd459e4.chunk.js": "/countries-api-app/static/js/787.3bd459e4.chunk.js",
+    "index.html": "/countries-api-app/index.html",
+    "static/media/theme-icon.svg": "/countries-api-app/static/media/theme-icon.670e6a67ecc8d90e33a3df6ea301cb89.svg",
+    "static/media/search.svg": "/countries-api-app/static/media/search.b5137719db633da14c66a6a3afc9026b.svg",
+    "static/media/call-made.svg": "/countries-api-app/static/media/call-made.6c297845e61b055e9799f6c97f10240e.svg",
+    "main.d875abc5.css.map": "/countries-api-app/static/css/main.d875abc5.css.map",
+    "main.7d019118.js.map": "/countries-api-app/static/js/main.7d019118.js.map",
+    "787.3bd459e4.chunk.js.map": "/countries-api-app/static/js/787.3bd459e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d875abc5.css",
+    "static/js/main.7d019118.js"
+  ]
+}
