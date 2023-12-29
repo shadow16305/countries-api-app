@@ -42,7 +42,7 @@ const Card = ({ isDark, value }) => {
   );
 
   return (
-    <div className="container mx-auto flex flex-wrap justify-center xl:justify-start gap-20 mt-12">
+    <div className="container mx-auto flex flex-wrap justify-center gap-20 mt-12">
       {filteredCountries.map((country, index) => (
         <Link
           to={`/${country.name}`}
